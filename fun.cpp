@@ -10,6 +10,6 @@ int j;
 
 cout << "Hello welcome" << endl;
 
-for(i = 0; i < 10; i++){
-cout << i + 5 << " ";
+for(i = 0; i <= 100; i++){
+cout << i + 10 << " ";
 }
